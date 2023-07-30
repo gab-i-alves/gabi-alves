@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="#" alt="stamp">
-  <img src="https://cyber.dabamos.de/88x31/emacs2.gif" /></a>
+  <img src="https://i.postimg.cc/Fs7w3Chd/36.gif" width="245px" /></a>
   <a href="#" alt="stamp">
   <img src="https://y2k.neocities.org/buttons/bestview.gif" /></a>
   <a href="#" alt="stamp">
