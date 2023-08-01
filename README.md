@@ -4,6 +4,7 @@
  <p align="left">
   <ul>
     <li>Desenvolvimento Web (HTML, CSS, JS, PHP)</li>
+    <li>Linguagem C</li>
     <li>Redes de Computadores</li>
     <li>Banco de Dados (MySQL)</li>
     <li>Programação Orientada a Objetos e UML</li>
