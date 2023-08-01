@@ -1,6 +1,6 @@
 <img src="https://64.media.tumblr.com/7a85c02e3b3ccfe8ea9464160efa170b/tumblr_ozozdkym6V1qza1qzo1_540.gifv" width="250px" align="right"/>
 
-### <img src="https://64.media.tumblr.com/3b05bb3ce87dfaff27d37406eedac457/dd875028923249a1-b3/s75x75_c1/3c4c15dfd03c25c65798ccedcd67eb969a5310d9.gifv" width="18px" /> Estudando no momento:
+### <img src="https://64.media.tumblr.com/3b05bb3ce87dfaff27d37406eedac457/dd875028923249a1-b3/s75x75_c1/3c4c15dfd03c25c65798ccedcd67eb969a5310d9.gifv" width="25px" /> Estudando no momento:
  <p align="left">
   <ul>
     <li>Desenvolvimento Web (HTML, CSS, JS, PHP)</li>
