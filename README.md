@@ -6,7 +6,7 @@
     <li>Desenvolvimento Web (HTML, CSS, JS, PHP)</li>
     <li>Linguagem C</li>
     <li>Redes de Computadores</li>
-    <li>Banco de Dados (MySQL)</li>
+    <li>Banco de Dados (PostgreSQL)</li>
     <li>Programação Orientada a Objetos e UML</li>
     <li>Suporte de TI (Google/Coursera)</li>
   </ul>
